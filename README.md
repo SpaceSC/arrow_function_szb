@@ -1,1 +1,1 @@
-# arrow_function_szb
+# arrow_function
